@@ -1,0 +1,56 @@
+*{
+    box-sizing : border-box;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, rgb(188, 189, 189), #9c9494);
+    color: #fff;
+    text-align : justify;
+    padding: 20px;
+}
+header, section, footer {
+    padding: 20px;
+}
+
+header {
+    background: #2c3e50;
+    text-align: center;
+}
+
+h1, h2, h3,p {
+    color: wh;
+    display : flex;
+    justify-content: center;
+}
+img{
+    padding-left : 22rem;
+}
+ul{
+    padding-left : 22rem;
+}
+
+section {
+    margin: 20px 0;
+}
+
+article {
+    margin-bottom: 30px;
+}
+ul li{
+    color : black;
+    font-size : 1rem;
+}
+h1{
+    margin : 20px;
+}
+
+#conclusion, strong{
+    width : 60rem;
+    padding-left : 22rem;
+}
+.par {
+    width: 65rem;
+    padding-left:19rem;
+}
